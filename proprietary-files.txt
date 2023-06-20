@@ -189,6 +189,7 @@ vendor/lib64/hw/com.qti.chi.override.so
 vendor/lib64/lib3rdpartcontext.so
 vendor/lib64/libAF.so
 vendor/lib64/libI420colorconvert.so
+vendor/lib64/libMegviiFacepp-0.5.2.so
 vendor/lib64/libSNPE.so
 vendor/lib64/libXMFaceFocus.so
 vendor/lib64/libaidenoiser.so
@@ -230,6 +231,7 @@ vendor/lib64/libipebpsstriping.so
 vendor/lib64/libipebpsstriping170.so
 vendor/lib64/libmiXmlParser.so
 vendor/lib64/libmiai_portraitsupernight.so
+vendor/lib64/libmegface.so
 vendor/lib64/libmialgo_ai_vision.so
 vendor/lib64/libmialgo_aio_seg.so
 vendor/lib64/libmialgo_basic.so
@@ -426,6 +428,7 @@ vendor/etc/camera/facefocus_models/facevalid.dlc
 vendor/etc/camera/fold_qianzhi_512_edutpu140_ar36912_depth128_dd48_2_128_inscale_q12qrqfct_rotate45_scale_distortcolor_quantaware_step205420_without_softmax_snpe-1.58.0_3160_soc-sm7325_qat.dlc
 vendor/etc/camera/mbv3tpu_big_1024_2x_postquant_snpe.dlc
 vendor/etc/camera/miai_psn_config.yaml
+vendor/etc/camera/megviifacepp_0_5_2_model
 vendor/etc/camera/mibokeh_855_opencl.bin
 vendor/etc/camera/mibokeh_855_parameter.bin
 vendor/etc/camera/model/dof_model/capture_cache
