@@ -12,7 +12,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/xiaomi/redwood/device.mk)
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/config/common.mk)
+$(call inherit-product, vendor/arrow/config/common.mk)
 
 PRODUCT_BRAND := POCO
 PRODUCT_DEVICE := redwood
