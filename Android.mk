@@ -6,10 +6,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),redwood)
-$(info Including hardware/xiaomi/Android.mk)
-include ./hardware/xiaomi/Android.mk
-
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
 include $(CLEAR_VARS)
