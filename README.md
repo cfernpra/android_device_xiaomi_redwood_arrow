@@ -1,26 +1,28 @@
 Copyright (C) 2023 The LineageOS Project
 
-Device configuration for Xiaomi Poco X5 Pro 5G
+Device configuration for Redmi Note 13 Pro 5G
 =========================================
 
-The Xiaomi Poco X5 Pro 5G (codenamed _"redwood"_) is a mid-range smartphone from Xiaomi.
+The Redmi Note 13 Pro 5G is a high-performance mid-range smartphone from Xiaomi.
 
-It was released in February 2023.
+It features cutting-edge technology and was introduced to the global market with notable specifications.
 
 ## Device specifications
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU     | Kryo 670, Up to 2.4 GHz, Octa-core CPU
-Chipset | Qualcomm Snapdragon 778G 5G (SM7325-2-AB)
-GPU     | Adreno 642L
-Memory  | 6/8 GB, LPDDR4X
-Storage | 128/256 GB, UFS 2.2
-Shipped Android Version | 12
-Battery | Non-removable 5000 mAh
-Display | 2400 x 1080 pixels, 6.67 inches
-Camera  | 108 MP main, 8 MP ultra-wide angle, 2 MP telemacro, 16 MP front
+CPU	    | 4x 2.4 GHz ARM Cortex-A78, 4x 1.95 GHz ARM Cortex-A55, Octa-core CPU
+Chipset	| Snapdragon 7s Gen 2, Flagship-level 4nm processor
+GPU	    | Qualcomm Adreno 710
+Memory	| 8/12/16 GB, LPDDR5
+Storage	| 128/256/512 GB, UFS 4.0
+Shipped 
+Android 
+Version	| Likely Android 12 or later
+Battery	| Non-removable 5100 mAh, 67W turbo charging
+Display	| 2712 x 1220 pixels, 6.67 inches, AMOLED, 120Hz, HDR10+, Dolby Vision
+Camera	| 200 MP main sensor, 8 MP ultra-wide, 2 MP macro, with advanced photography features
 
 ## Device picture
 
-![Poco X5 Pro 5G](https://cdn1.coppel.com/images/catalog/mkp/7462/3000/74621343-1.jpg "Poco X5 Pro 5G")
+
